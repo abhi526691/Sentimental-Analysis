@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+glove.6B.100d.txt/
+glove.twitter.27B.25D.model/
+Sentiment_Data/
+
+*sentiment.ipynb
 # C extensions
 *.so
 
