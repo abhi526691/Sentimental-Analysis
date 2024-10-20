@@ -7,7 +7,7 @@ glove.6B.100d.txt/
 glove.twitter.27B.25D.model/
 Sentiment_Data/
 
-*sentiment.ipynb
+*preprocessing.ipynb
 # C extensions
 *.so
 
