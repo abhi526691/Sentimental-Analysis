@@ -61,24 +61,15 @@ Below is a summary of the models and techniques employed. Contributors can add a
 
 The following preprocessing techniques were used to prepare the text data for analysis:
 
-1. **Handle Emojis, Slangs, Punctuation, and Short Forms**  
-   Normalize emojis and convert slangs or short forms to their formal equivalents.
-2. **Spelling Corrections**  
-   Correct misspelled words to ensure consistency.
-3. **POS Tagging**  
-   Use part-of-speech tagging to assist with context-specific word corrections.
-4. **Handling Pronouns and Special Characters**  
-   Normalize or remove special characters and handle pronouns effectively.
-5. **Tokenization**  
-   Tokenize the text into words or symbols.
-6. **Remove Stop Words**  
-   Eliminate common stop words that don't contribute to sentiment analysis.
-7. **Negation Handling**  
-   Properly account for negation in phrases like "not happy" to ensure accurate sentiment detection.
-8. **Stemming and Lemmatization**  
-   Reduce words to their base form using stemming or lemmatization.
-9. **Lowercasing and En-grams**  
-   Convert text to lowercase and use both unigrams and bigrams to capture relationships between words.
+1. **Handle Emojis, Slangs, Punctuation, and Short Forms** :- Normalize emojis and convert slangs or short forms to their formal equivalents.
+2. **Spelling Corrections**:- Correct misspelled words to ensure consistency.
+3. **POS Tagging**:- Use part-of-speech tagging to assist with context-specific word corrections.
+4. **Handling Pronouns and Special Characters**:-Normalize or remove special characters and handle pronouns effectively.
+5. **Tokenization**:-Tokenize the text into words or symbols.
+6. **Remove Stop Words**:-Eliminate common stop words that don't contribute to sentiment analysis.
+7. **Negation Handling**:-Properly account for negation in phrases like "not happy" to ensure accurate sentiment detection.
+8. **Stemming and Lemmatization**:- Reduce words to their base form using stemming or lemmatization.
+9. **Lowercasing and En-grams**:-Convert text to lowercase and use both unigrams and bigrams to capture relationships between words.
 
 ---
 
@@ -94,7 +85,7 @@ The following preprocessing techniques were used to prepare the text data for an
 
 ## Contributing
 
-We welcome contributions from the community! Here's how you can help:
+I welcome contributions from the community! Here's how you can help:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
